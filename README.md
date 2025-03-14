@@ -86,7 +86,7 @@ The prediction details are securely stored in Firebase for easy access.
 
 **📊 Results**
 
-📈 Accuracy: 75% on test data.
+📈 Accuracy: 89% on test data.
 
 🚨 Performance Improvement: The hybrid model outperforms traditional Naïve Bayes and Decision Tree algorithms individually.
 
